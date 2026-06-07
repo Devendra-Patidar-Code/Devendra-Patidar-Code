@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Devendra-Patidar-Code&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Devendra-Patidar-Code)](https://devendra-portfolio-ruddy.vercel.app)
+[![](https://komarev.com/ghpvc/?username=Devendra-Patidar-Code&label=View%20My%20Portfolio&color=blue)](https://devendra-portfolio-ruddy.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
